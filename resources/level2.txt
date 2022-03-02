@@ -1,0 +1,9 @@
+8 8
+ AAAAAA 
+B      B
+C J  J C
+D      D
+E  EE  E
+ F    F 
+  GGGG  
+        

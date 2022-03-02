@@ -1,0 +1,10 @@
+9 8
+IIIIIIII
+I      I
+I      I
+I JJJJ I
+I AAAA I
+I DDDD I
+I JJJJ I
+I      I
+IIIIIIII

@@ -1,0 +1,10 @@
+9 8
+   AA   
+  BBBB  
+ CC  CC 
+II    II
+IIJJJJII
+FFFFFFFF
+DD    DD
+EE    EE
+CCCCCCCC
